@@ -9,7 +9,7 @@ const translations = {
     contact: 'CONTACT',
     tel: '(Tel) +999 428 004 444',
     address: '(Add) Tower A, Central Life Sciences Park, District 1',
-    web: '(Web) https://awz-amialiveor.github.io/-web-page/',
+    web: '(Web) https://awz-amialiveor.github.io/-web-page//',
     copyright: '© 2325 Homecoming Inc. All rights reserved.',
     privacy: 'Privacy Policy',
     terms: 'Terms of Service'
@@ -18,7 +18,7 @@ const translations = {
     contact: '联系方式',
     tel: '(电话) +999 428 004 444',
     address: '(地址) 1区中央生命科学园A座',
-    web: '(网站) https://awz-amialiveor.github.io/-web-page/',
+    web: '(网站) https://awz-amialiveor.github.io/-web-page//',
     copyright: '© 2325 归乡公司 版权所有',
     privacy: '隐私政策',
     terms: '服务条款'
